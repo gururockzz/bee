@@ -1,0 +1,711 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi", "Hello", "Hey", "Good day", "Greetings"
+      ],
+      "responses": ["Hello! Welcome to team Greek. How can I assist you today?"]
+    },
+    {
+      "tag": "intro-1",
+      "patterns": [
+        "What is honey hunting, and how does it differ from beekeeping?"
+      ],
+      "responses": [
+        "Honey hunting involves extracting honey and beeswax from wild honeybee nests, while beekeeping focuses on encouraging bees to nest in hives for easier honey production and overall management."
+      ]
+    },
+    
+    {
+      "tag": "intro-2",
+      "patterns": [
+        "Can you describe the social structure of a honeybee colony?"
+      ],
+      "responses": [
+        "A honeybee colony consists of a queen, numerous worker bees, and a few hundred drones. The colony exhibits a division of labor and specialization among its members."
+      ]
+    },
+    
+    {
+      "tag": "intro-3",
+      "patterns": [
+        "How do honeybees construct their nests, and what materials do they use?"
+      ],
+      "responses": [
+        "Honeybees construct nests, or combs, using wax secreted from the wax glands of worker bees. These combs serve the dual purpose of rearing brood and storing honey and pollen."
+      ]
+    },
+    
+    {
+      "tag": "intro-4",
+      "patterns": [
+        "What is the typical arrangement of cells in a honeybee comb?"
+      ],
+      "responses": [
+        "In a honeybee comb, honey is stored in the upper part, followed by rows of pollen storage cells, worker brood cells, and drone brood cells, in that order."
+      ]
+    },
+    
+    {
+      "tag": "intro-5",
+      "patterns": [
+        "How do different Apis species vary in their comb-building habits?"
+      ],
+      "responses": [
+        "Apis species exhibit variation in comb construction, with some building single combs in open spaces, while others create multiple combs in dark cavities."
+      ]
+    },
+    
+    {
+      "tag": "intro-6",
+      "patterns": [
+        "Besides honey production, what other services do honeybees provide to humans?"
+      ],
+      "responses": [
+        "Honeybees are valuable for their pollination services, contributing to the fertilization of various crops and plants."
+      ]
+    },
+    
+    {
+      "tag": "intro-7",
+      "patterns": [
+        "What factors influence the methods used by beekeepers in managing honeybee colonies?"
+      ],
+      "responses": [
+        "The methods employed by beekeepers depend on the types of bees available, as well as the skills and resources at the disposal of the beekeeper."
+      ]
+    },
+    
+    {
+      "tag": "intro-8",
+      "patterns": [
+        "How do honeybees exhibit specialization in their colony tasks?"
+      ],
+      "responses": [
+        "Honeybees showcase specialization in tasks within the colony, with different individuals taking on roles such as foraging, nursing, and guarding."
+      ]
+    },
+    {
+      "tag": "intro-9",
+      "patterns": [
+        "Why do some honeybees build their combs in open spaces, while others prefer dark cavities?"
+      ],
+      "responses": [
+        "The choice of comb location varies among Apis species, with some building single combs in open spaces for accessibility, while others prefer dark cavities for protection."
+      ]
+    },
+    
+    {
+      "tag": "intro-10",
+      "patterns": [
+        "How do honeybees contribute to the biodiversity of ecosystems through their pollination services?"
+      ],
+      "responses": [
+        "Honeybees play a crucial role in pollination, enhancing the biodiversity of ecosystems by facilitating the reproduction of various plant species."
+      ]
+    },
+    {
+      "tag": "beekeeping-1",
+      "patterns": [
+        "What is 'Bee Space' or 'Bee Passage' in beekeeping?"
+      ],
+      "responses": [
+        "'Bee Space' is the optimal distance between two comb surfaces in a hive, essential for normal bee movement. It is too small for comb construction and too large for propolis deposition."
+      ]
+    },
+    {
+      "tag": "beekeeping-2",
+      "patterns": [
+        "Why is movable frame beekeeping considered advantageous?"
+      ],
+      "responses": [
+        "Movable frames allow hive volume adjustment, easy assessment of food stores, artificial feeding, effective monitoring of brood development, and various hive management tasks without disturbing bees."
+      ]
+    },
+    {
+      "tag": "beekeeping-3",
+      "patterns": [
+        "Why is white paint often preferred for hive construction?"
+      ],
+      "responses": [
+        "White paint offers durability, flexibility, and easy handling. It also helps regulate hive interior temperature and humidity, contributing to colony efficiency."
+      ]
+    },
+    {
+      "tag": "beekeeping-4",
+      "patterns": [
+        "What are common materials used for constructing bee hives?"
+      ],
+      "responses": [
+        "Bee hives are commonly constructed with seasonal timber such as teak, kail, or toon. The recommended thickness for wooden walls is 20 mm."
+      ]
+    },
+    {
+      "tag": "beekeeping-5",
+      "patterns": [
+        "Name some popular types of bee hives."
+      ],
+      "responses": [
+        "Popular types include pot hive, book hive, Madhusagar hive, house hive, nucleus hive, single-walled and double-walled Dadant hives, British standard hive, Langstroth hive, Jeolikote hive, and Newton hive."
+      ]
+    },
+    {
+      "tag": "beekeeping-6",
+      "patterns": [
+        "Which hive types are suited for rearing Indian bees?"
+      ],
+      "responses": [
+        "Newton's hives, BIS hives, and Marthandam hives are specifically suited for rearing Indian bees."
+      ]
+    },
+    {
+      "tag": "beekeeping-7",
+      "patterns": [
+        "What hive type is recommended for rearing Italian bees?"
+      ],
+      "responses": [
+        "Langstroth hives are recommended for rearing Italian bees."
+      ]
+    },
+    {
+      "tag": "beekeeping-8",
+      "patterns": [
+        "Besides hives, what equipment do beekeepers need?"
+      ],
+      "responses": [
+        "Beekeepers need equipment such as hive stands, nucleus boxes, and smokers."
+      ]
+    },
+    {
+      "tag": "beekeeping-9",
+      "patterns": [
+        "What are the recommended colors for painting hive bodies externally?"
+      ],
+      "responses": [
+        "Recommended colors are white, blue, yellow, or green, with white being generally preferred for hive construction."
+      ]
+    },
+    {
+      "tag": "beekeeping-10",
+      "patterns": [
+        "What is the significance of 'Bee Space' in beekeeping, and how does it vary among honeybee species?"
+      ],
+      "responses": [
+        "'Bee Space' is the optimal distance between two adjacent comb surfaces in a beehive, vital for normal bee movement. It varies among honeybee species, with Indian bees requiring 7-9 mm and Italian bees needing 10 mm."
+      ]
+    },
+    {
+      "tag": "beekeeping-11",
+      "patterns": [
+        "What advantages does beekeeping in movable frames offer, and how does it contribute to effective hive management?"
+      ],
+      "responses": [
+        "Beekeeping in movable frames allows for adjustable hive volume, easy assessment of food stores, artificial feeding, effective brood development monitoring, artificial queen rearing, removal of old combs, and minimal disturbance during bee observation."
+      ]
+    },
+    {
+      "tag": "beekeeping-12",
+      "patterns": [
+        "What are the recommended colors for painting hive bodies externally, and why is white generally preferred for hive construction?"
+      ],
+      "responses": [
+        "Recommended colors include white, blue, yellow, or green. White is preferred for hive construction due to its durability, flexibility, and positive impact on hive temperature and humidity regulation."
+      ]
+    },
+    {
+      "tag": "beekeeping-13",
+      "patterns": [
+        "What materials are commonly used in constructing bee hives, and what criteria should timber meet for hive construction?"
+      ],
+      "responses": [
+        "Bee hives are mainly constructed with seasonal timber like teak, kail, or toon. Suitable timber should be free from insect holes, dead knots, shakes, splits, and cracks, with a recommended thickness of 20 mm."
+      ]
+    },
+    {
+      "tag": "beekeeping-14",
+      "patterns": [
+        "Can you name some popular types of bee hives and specify which one is most popular in South India for rearing Indian bees?"
+      ],
+      "responses": [
+        "Popular types include Newton's hives, BIS hives, Marthandam hives, and Langstroth hives. The one designed by Rev.Fr.Newton is the most popular in South India for rearing Indian bees."
+      ]
+    },
+    {
+      "tag": "beekeeping-15",
+      "patterns": [
+        "Describe the parts of a BIS hive and their functions."
+      ],
+      "responses": [
+        "A BIS hive consists of a floor board, brood chamber, wooden frames, super chamber, super chamber with wooden frames, and a top cover. Each part serves a specific function in the hive structure and management."
+      ]
+    },
+    {
+      "tag": "beekeeping-16",
+      "patterns": [
+        "What are the specifications for BIS hives according to the latest standards, and how do they differ for different types (A, B, C)?"
+      ],
+      "responses": [
+        "BIS hives have specifications such as bee space in mm, the number of frames, and bee species. For example, Type A has a bee space of 7 or 8 mm, 10 or 8 or 4 frames, and suits A. cerana."
+      ]
+    },
+    {
+      "tag": "beekeeping-17",
+      "patterns": [
+        "Can you describe the parts of Newton's bee hive made of wood and their dimensions?"
+      ],
+      "responses": [
+        "Newton's bee hive includes a floor board, brood chamber, wooden frames, super chamber, and top cover. For example, the brood chamber is 93/4 x 81/4 x 63/4 in size, with an entrance slit, and the wooden frames are 81/4 x 53/4 x 6."
+      ]
+    },
+    {
+      "tag": "beekeeping-18",
+      "patterns": [
+        "What is the purpose of a pollen trap in beekeeping?"
+      ],
+      "responses": [
+        "A pollen trap is placed at the hive entrance to scrape pollen pellets from returning foragers. The collected pellets fall into a tray, providing beekeepers with access to high-quality pollen."
+      ]
+    },
+    {
+      "tag": "beekeeping-19",
+      "patterns": [
+        "How does a honey extractor work, and what precautions should be taken during honey extraction?"
+      ],
+      "responses": [
+        "A honey extractor works by using centrifugal force to force honey out of frames. Precautions during honey extraction include handling combs carefully, ensuring proper rotation speed, and conducting extraction away from the hive to avoid attracting bees."
+      ]
+    },
+    {
+      "tag": "bee-pollination-1",
+      "patterns": [
+        "Why do bees visit plants, and what is their preference in terms of nectar and pollen?"
+      ],
+      "responses": [
+        "Bees visit plants for their food, which includes nectar and pollen. The floral fidelity of bees is due to their preference for nectars with higher sugar content and pollens with higher nutritive values."
+      ]
+    },
+    {
+      "tag": "bee-pollination-2",
+      "patterns": [
+        "What are the qualities of honeybees that make them good pollinators?"
+      ],
+      "responses": [
+        "Honeybees are good pollinators due to their body being covered with hairs, structural adaptations for carrying nectar and pollen, non-injurious behavior toward plants, feeding habits of both adults and larvae on nectar and pollen, storing pollen and nectar for future use, continuous pollen needs throughout the year, and suitable body size and proboscis length for various crops."
+      ]
+    },
+    {
+      "tag": "bee-pollination-3",
+      "patterns": [
+        "How does bee pollination affect crop yield and quality?"
+      ],
+      "responses": [
+        "Bee pollination increases seed and fruit yield in many crops, improves the quality of fruits and seeds, enhances the oil content of seeds in crops like sunflower, and is essential for seed set in some self-incompatible crops."
+      ]
+    },
+    {
+      "tag": "bee-pollination-4",
+      "patterns": [
+        "Name some crops benefited by bee pollination."
+      ],
+      "responses": [
+        "Fruits and nuts such as almond, apple, apricot, peach, strawberry, citrus, and litchi; vegetable and vegetable seed crops like cabbage, cauliflower, carrot, cucumber, and melon; oilseed crops including sunflower, niger, rape seed, mustard, and safflower; and forage seed crops like lucerne and clover."
+      ]
+    },
+    {
+      "tag": "bee-pollination-5",
+      "patterns": [
+        "What is the scope of beekeeping for pollination in India?"
+      ],
+      "responses": [
+        "The total area of bee-dependent crops in India is around 50 million hectares, requiring approximately 150 million colonies for optimal pollination. Currently, there are only 1.2 million colonies in India, indicating a significant scope for the expansion of beekeeping for pollination."
+      ]
+    },
+    {
+      "tag": "bee-pollination-6",
+      "patterns": [
+        "Provide some management practices for beekeeping for pollination."
+      ],
+      "responses": [
+        "Place hives near the field source, migrate colonies near the field at 10% flowering, adjust the number of colonies per hectare based on bee species, maintain colonies with 5-6 frame strength, sealed brood, and a young mated queen, and provide sufficient space for pollen and honey storage."
+      ]
+    },
+    {
+      "tag": "bee-pollination-7",
+      "patterns": [
+        "Can you share examples of crops benefiting from bee pollination and the percentage increase in yield?"
+      ],
+      "responses": [
+        "Mustard: 43%\nSunflower: 32-48%\nCotton: 17-19%\nLucerne: 112%\nOnion: 93%\nApple: 44%"
+      ]
+    },
+    {
+      "tag": "bee-pollination-8",
+      "patterns": [
+        "Describe the pollination process in crops like sunflower and cucurbitaceous vegetables."
+      ],
+      "responses": [
+        "Sunflower is cross-pollinated, requiring pollen from different plants, making honeybees crucial for up to a 600% yield increase. Cucurbitaceous vegetables, being monoecious, experience a 30 to 100% increase in fruit set due to bee pollination."
+      ]
+    },
+    {
+      "tag": "bee-pollination-9",
+      "patterns": [
+        "Name some plants visited by bees for nectar or pollen."
+      ],
+      "responses": [
+        "Plants visited by bees include all kinds of citrus, litchi, peach, apple, guava, jamun, date palm, apricot, quince, pear, almond, plum, loquat, phalsa, cashew, and many others listed in the provided information."
+      ]
+    },
+    {
+      "tag": "bee-pollination-10",
+      "patterns": [
+        "Why is proper seed set important in crops like apple?"
+      ],
+      "responses": [
+        "In apple, seed set is essential for fruit formation, and improper seed set can result in lopsided fruit shape, leading to decreased market value."
+      ]
+    },
+    {
+      "tag": "beekeeping-prerequisites",
+      "patterns": [
+        "What are the pre-requisites considered essential to start beekeeping?"
+      ],
+      "responses": [
+        "The pre-requisites for starting beekeeping include:\n\n- Knowledge and training in beekeeping.\n- Familiarity with local bee flora.\n- Availability of sufficient local bee flora.\n- Understanding of migratory beekeeping.\n- Proper selection of an apiary site, considering factors like dryness, water source, windbreaks, shade, and the presence of bee pasturage and florage."
+      ]
+    },
+    {
+      "tag": "apiary-management",
+      "patterns": [
+        "What are the key aspects of general apiary management practices?"
+      ],
+      "responses": [
+        "Key aspects of general apiary management practices include:\n\n- Regular hive inspection to check for the presence of the queen, eggs, brood, honey and pollen storage, and the existence of bee enemies like wax moth and mites.\n- Expanding the brood net by providing comb foundation sheets during honey flow.\n- Supering, which involves adding frames in the super chamber when the brood chamber is full.\n- Providing additional space for foraging activity and egg-laying during the breeding season.\n- Swarm control methods to prevent colonies from swarming."
+      ]
+    },
+    {
+      "tag": "swarm-control",
+      "patterns": [
+        "Explain the process of swarm control in beekeeping."
+      ],
+      "responses": [
+        "Swarm control involves preventing colonies from swarming. Methods include clipping special queen brood cells, trapping and hiving primary swarms separately, removing brood combs from strong colonies, and interchanging positions between strong and weak colonies."
+      ]
+    },
+    {
+      "tag": "artificial-feeding",
+      "patterns": [
+        "Why is artificial feeding necessary in beekeeping?"
+      ],
+      "responses": [
+        "Artificial feeding becomes necessary during dearth periods when there is a shortage of nectar and pollen in nature. Bees are fed with sugar syrup to prevent starvation and maintain colony strength. Proper feeding during dearth periods can induce earlier swarming, making colonies stronger before the honey-flow season."
+      ]
+    },
+    {
+      "tag": "water-in-beekeeping",
+      "patterns": [
+        "What is the role of water in beekeeping, and how is it provided?"
+      ],
+      "responses": [
+        "Water is essential for blending with food and regulating hive temperature during hot weather. It can be supplied through a natural or artificial source. Water can be given in a tank, an earthen pot with dripping water, or even inside the hive in a glass bottle."
+      ]
+    },
+    {
+      "tag": "uniting-bee-colonies",
+      "patterns": [
+        "Explain the process of uniting bee colonies and mention two methods."
+      ],
+      "responses": [
+        "Uniting bee colonies becomes necessary when a colony becomes weak or queenless. Two methods are:\n\n- Newspaper method: Place colonies side by side with a newspaper on top of the brood chamber of one colony. Make holes in the paper, place the queenless colony on top, and unite the colonies as the smells mix through the paper.\n- Smoke method: Smoke both colonies heavily and then dump them into one hive, ensuring more smoke is blown into the common hive."
+      ]
+    },
+    {
+      "tag": "handling-queen-bee",
+      "patterns": [
+        "Why is proper handling of the queen important in beekeeping?"
+      ],
+      "responses": [
+        "The queen is the most important individual in a bee colony. Proper and careful handling is crucial because the queen is indispensable for the colony's functioning, including egg-laying and maintaining colony harmony."
+      ]
+    },
+    {
+      "tag": "absence-of-queen",
+      "patterns": [
+        "How can the absence of a queen be determined in a colony?"
+      ],
+      "responses": [
+        "The absence of a queen can be determined by observing the behavior of bees in a queenless colony. Queenless colonies exhibit nervousness, improper sitting on combs, and the absence of egg-laying or worker egg-laying without uniformity in combs."
+      ]
+    },
+    {
+      "tag": "queen-handling",
+      "patterns": [
+        "Why is proper handling of the queen emphasized in beekeeping?"
+      ],
+      "responses": [
+        "The queen is considered the most important and indispensable individual in a bee colony. Proper handling is crucial to ensure the well-being and functionality of the colony."
+      ]
+    },
+    {
+      "tag": "active-queen-determination",
+      "patterns": [
+        "How can the presence of an active queen in a colony be determined?"
+      ],
+      "responses": [
+        "The presence of an active queen can be inferred by the presence of worker eggs. However, if it is necessary to spot or catch the queen, a thorough search may be required, especially in strong colonies where spotting the queen at first glance might be challenging."
+      ]
+    },
+    {
+      "tag": "queenless-colony-signs",
+      "patterns": [
+        "What are the signs of a queenless colony, and why is it important to test for the absence of a queen?"
+      ],
+      "responses": [
+        "Signs of a queenless colony include nervous behavior, improper sitting on combs, and a lack of uniformity in combs. Testing for the absence of a queen is essential before introducing a new queen to avoid conflicts and ensure the success of the introduction."
+      ]
+    },
+    {
+      "tag": "introducing-queen-process",
+      "patterns": [
+        "Describe the process of introducing a queen into a colony."
+      ],
+      "responses": [
+        "To safely introduce a queen, it must be ensured that the colony is genuinely queenless, and no queen cell is present in the brood combs. The queen should be placed in a queen-introducing cage with the exit plugged with queen candy. This cage is then positioned in the center of the brood nest."
+      ]
+    },
+    {
+      "tag": "increasing-colonies-importance",
+      "patterns": [
+        "Why is increasing the number of colonies important for a beekeeper?"
+      ],
+      "responses": [
+        "Increasing the number of colonies is crucial for the expansion and success of a beekeeping venture. This can be achieved by dividing existing colonies into sub-colonies with fresh queens or by purchasing established colonies."
+      ]
+    },
+    {
+      "tag": "increasing-colonies-methods",
+      "patterns": [
+        "What are the methods for increasing the number of colonies during the swarming season?"
+      ],
+      "responses": [
+        "- Dividing colonies by keeping 50% brood combs with the old queen in an empty hive and moving it away from the original site.\n- Allowing colonies to swarm, capturing the swarms, and transferring them to empty hives by providing brood combs from another colony."
+      ]
+    },
+    {
+      "tag": "seasonal-management-importance",
+      "patterns": [
+        "What is the importance of seasonal management in beekeeping?"
+      ],
+      "responses": [
+        "Seasonal management is essential to address specific challenges and opportunities presented by different seasons. It includes practices like providing space for honey storage, preventing swarming, and managing colonies differently during honey flow, summer, winter, and dearth periods."
+      ]
+    },
+    {
+      "tag": "honey-flow-season-management",
+      "patterns": [
+        "What are some tactics for managing bee colonies during the honey flow season?"
+      ],
+      "responses": [
+        "- Providing more space for honey storage with comb foundation sheets.\n- Confining the queen to the brood chamber using a queen excluder.\n- Preventing swarming as explained in swarm management.\n- Prior to honey flow, providing sugar syrup and building sufficient population."
+      ]
+    },
+    {
+      "tag": "foraging-definition",
+      "patterns": [
+        "How is foraging defined in the context of beekeeping?"
+      ],
+      "responses": [
+        "Foraging in beekeeping refers to the collection of nectar and pollen by bees. Nectar foragers collect nectar from flowers using their lapping tongue, while pollen foragers collect pollen by passing through different flowers, storing it in corbicula or pollen baskets."
+      ]
+    },
+    {
+      "tag": "pollen-nectar-source-plants",
+      "patterns": [
+        "Name some plants that are good sources of both pollen and nectar for bees."
+      ],
+      "responses": [
+        "Plants that are good sources of both pollen and nectar for bees include banana, peach, citrus, guava, apple, sunflower, berries, safflower, pear, mango, and plum."
+      ]
+    },
+    {
+      "tag": "bee-products-harvesting",
+      "patterns": [
+        "What are the important bee products, and when is honey typically harvested?"
+      ],
+      "responses": [
+        "The important bee products include honey, beeswax, royal jelly, bee venom, propolis, and pollen. Honey is typically harvested at the end of a flowering season."
+      ]
+    },
+    {
+      "tag": "honey-extraction-process",
+      "patterns": [
+        "How is honey extracted from traditional or top-bar hives, and what equipment is used?"
+      ],
+      "responses": [
+        "In traditional or top-bar hives, the beekeeper selects combs containing ripe honey covered with a layer of white beeswax. Honey is extracted from super combs using a honey extractor. The sealing of cells is removed with a sharp knife before placing them in the extractor. The extractor is worked slowly initially and then at about 150 rpm for 1 to 2 minutes. The sides of the frames are reversed, and the extractor is worked again. Extracted honey is filtered through muslin cloth."
+      ]
+    },
+    {
+      "tag": "lean-season-beekeeping",
+      "patterns": [
+        "What steps can beekeepers take during the lean season (May-September) to manage bee colonies?"
+      ],
+      "responses": [
+        "During the lean season, beekeepers should remove super chambers, arrange healthy brood combs in the brood chamber, and use division boards to restrict space. Artificial feeding is provided weekly with 1:1 sugar syrup in water. The amount of syrup depends on the colony's size and stored food availability. Pollen substitutes may also be provided when there is a dearth of natural sources."
+      ]
+    },
+    {
+      "tag": "honey-collecting-ripening",
+      "patterns": [
+        "Explain the process of collecting and ripening honey by honeybees."
+      ],
+      "responses": [
+        "Field bees draw nectar using their lapping tongue (proboscis). They regurgitate the nectar, which is collected by hive bees and deposited in cells on the comb. Nectar contains 20 to 40 percent sucrose. The enzyme invertase, present in nectar and saliva of honeybees, converts sucrose into dextrose (glucose) and levulose (fructose). Honey ripening occurs through the action of enzymes and water evaporation, facilitated by the bees' wing fanning. When the water content is reduced to about 20 percent, bees seal the cell with a wax capping, indicating the honey is ripe and resistant to fermentation."
+      ]
+    },
+    {
+      "tag": "honey-characteristics",
+      "patterns": [
+        "What are the characteristics of honey, and why is it considered a concentrated food source for bees?"
+      ],
+      "responses": [
+        "Honey contains a variety of sugars, minerals, vitamins, proteins, and amino acids, varying based on the nectar source. Bees consider honey a concentrated food source as they prepare it by reducing water content through evaporation. When the water content is reduced to around 20 percent, the bees seal the cell with wax, preventing fermentation and providing a concentrated and stable food source for periods when flowers are scarce."
+      ]
+    },
+    {
+      "tag": "honey-constituents",
+      "patterns": [
+        "What are the major constituents of fully ripened honey, and what percentage do they approximately make up?"
+      ],
+      "responses": [
+        "The major constituents of fully ripened honey and their approximate percentages are as follows:\n\n- Levulose: 41.0%\n- Dextrose: 35.0%\n- Sucrose: 1.9%\n- Dextrins: 1.5%\n- Minerals: 2.0%\n- Water: 17.0%\n- Undetermined (Enzymes, vitamins, pigments, etc.): 16.0%"
+      ]
+    },
+    {
+      "tag": "honey-components",
+      "patterns": [
+        "Name some important pigments, minerals, and vitamins found in honey."
+      ],
+      "responses": [
+        "- Pigments: Carotene, chlorophyll, and xanthophyll.\n- Minerals: Potassium, Calcium, Phosphorus, Sodium, Magnesium, Manganese, Copper, Sulphur, Silica, and Iron.\n- Vitamins: Vitamin B1 (Thiamine), B2 (Riboflavin), Nicotinic acid, Vitamin K, Folic acid, Ascorbic acid, and Pantothenic acid."
+      ]
+    },
+    {
+      "tag": "honey-properties",
+      "patterns": [
+        "What are the physical properties of honey?"
+      ],
+      "responses": [
+        "- Honey is hygroscopic and absorbs moisture when exposed to air.\n- It is a viscous fluid.\n- Heating reduces its viscosity.\n- The specific gravity of pure honey is 1.35 to 1.44 gms/cc.\n- Refractive index helps measure moisture content using a refractometer."
+      ]
+    },
+    {
+      "tag": "honey-purity-tests",
+      "patterns": [
+        "How can purity tests be conducted for honey?"
+      ],
+      "responses": [
+        "- Measure the specific gravity of honey using a hydrometer.\n- If the specific gravity is between 1.25 to 1.44, it is considered pure honey."
+      ]
+    },
+    {
+      "tag": "honey-properties-influence",
+      "patterns": [
+        "What factors influence the aroma, flavor, and color of honey?"
+      ],
+      "responses": [
+        "- Aroma and flavor are acquired from the nectar of the flower.\n- They are lost if honey is heated or exposed to air for a long time.\n- The color depends on the nectar of the flower and the plant species. Darker honey has a stronger flavor, while lighter honey has a more pleasant smell."
+      ]
+    },
+    {
+      "tag": "honey-crystallization",
+      "patterns": [
+        "Explain the natural property of honey known as crystallization or granulation."
+      ],
+      "responses": [
+        "Crystallization or granulation is a natural property of honey, particularly at low temperatures. Dextrose present in honey granulates and settles down, while levulose and water remain at the top. The ratio of Levulose to Dextose (L/D) influences granulation, with a higher L/D ratio resulting in less granulation."
+      ]
+    },
+    {
+      "tag": "honey-uses",
+      "patterns": [
+        "What are some uses of honey?"
+      ],
+      "responses": [
+        "- As a food source, adding nutritional diversity to diets.\n- As a medicine or tonic, used for various treatments.\n- As a cash crop for domestic and export markets.\n- As an export crop, providing foreign exchange for developing countries."
+      ]
+    },
+    {
+      "tag": "beeswax-composition-property",
+      "patterns": [
+        "What is the composition and property of beeswax?"
+      ],
+      "responses": [
+        "Beeswax composition:\n\n- Alcohols and fatty acids: 70 to 74%\n- Free acids: 13 to 15%\n- Saturated hydrocarbons: 12 to 15%\n- Vitamin A: 40961 U\n- Specific gravity: 0.95\n- Melting point: 65°C"
+      ]
+    },
+    {
+      "tag": "beeswax-processing-uses",
+      "patterns": [
+        "How is beeswax processed, and what are its uses?"
+      ],
+      "responses": [
+        "Processing:\n\n- Beeswax is obtained from cappings collected during honey extraction.\n- It is also obtained from old combs unfit for use and damaged combs during honey extraction.\n\nUses:\n\n- Mainly used by the candle industry.\n- Used for preparing comb foundation sheets.\n- Used in cosmetics like cold creams, lipsticks, and rouges.\n- Used in pharmaceuticals, perfume industry, ointments, capsules, pill coating, deodorants, shoe polish, furniture waterproofing, adhesives, chewing gums, and inks."
+      ]
+    },
+    {
+      "tag": "bee-venom-properties-uses",
+      "patterns": [
+        "How is bee venom produced, and what are its properties and uses?"
+      ],
+      "responses": [
+        "Production:\n\n- Bee venom is obtained by using electric shock.\n- Bees release venom when they are shocked, and it is collected on a glass plate.\n\nProperties:\n\n- Bee venom contains histamine, apamine, acithinase, hydrochloric acid, formic acid, orthophosphoric acid, sulphur, calcium, copper, and magnesium sulphate.\n\nUses:\n\n- Used in apitherapy to cure rheumatism.\n- Sub-cutaneous injection for treating rheumatism.\n- Ointments for treating cuts, wounds, and abscesses.\n- Stimulates heart muscles, decreases cholesterol levels, lowers blood pressure, and cures neurosis, endoarteriosis, endoarthritis, and neuraglia.\n- Antihistamine creams or injections are used as anti-allergents."
+      ]
+    },
+    {
+      "tag": "propolis-properties-uses",
+      "patterns": [
+        "What is propolis, its properties, and uses?"
+      ],
+      "responses": [
+        "Properties:\n\n- Propolis contains resins and balsams (55%), ethanol, scented oils (10%), and pollen (5%).\n\nUses:\n\n- Used in preparing ointments for treating cuts, wounds, and abscesses in cattle.\n- Mixed with vaseline to soothe burns."
+      ]
+    },
+    {
+      "tag": "royal-jelly-properties-uses",
+      "patterns": [
+        "What is royal jelly, its properties, and uses?"
+      ],
+      "responses": [
+        "Properties:\n\n- Royal jelly contains proteins (15 to 18%), lipids (2 to 6%), carbohydrates (9 to 18%), and ash (0.7 to 1.2%).\n- Also contains amino acids, vitamins A, B, C, iron, copper, phosphorus, silicon, and sulfur.\n\nUses:\n\n- Responsible for queen determination.\n- Very nutritious food for human beings."
+      ]
+    },
+    {
+      "tag": "pollen-collection",
+      "patterns": [
+        "What is pollen, and how is it collected?"
+      ],
+      "responses": [
+        "Pollen is collected by a pollen trap from incoming pollen foragers.\nIt is a rich protein source for the human diet."
+      ]
+    },
+    {
+      "tag": "bee-benefits-to-humans",
+      "patterns": [
+        "Besides honey and beeswax, how are honey bees beneficial to humans?"
+      ],
+      "responses": [
+        "Honey bees are beneficial for pollination of crops. The value of bees in pollination is claimed to be ten to twenty times the value of honey and wax they produce. Crops like apples, alfalfa, and clover heavily depend on bees for pollination, and even self-pollinated crops show increased yields after bee visits."
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye", "Goodbye", "See you later", "Farewell","take care"
+      ],
+      "responses": ["Thank you for visiting us. Have a great day!"]
+    }
+  ]
+}
+
