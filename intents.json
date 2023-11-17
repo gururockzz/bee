@@ -5,52 +5,78 @@
       "patterns": [
         "Hi", "Hello", "Hey", "Good day", "Greetings"
       ],
-      "responses": ["Hello! Welcome to BEE TRIBES. How can I assist you today?"]
+      "responses": ["Hello! Welcome to team Greek. How can I assist you today?"]
     },
     {
       "tag": "intro-1",
       "patterns": [
-        "What is honey hunting, and how does it differ from beekeeping?"
+        "What is honey hunting, and how does it differ from beekeeping?",
+        "Tell me about honey hunting",
+        "Explain the difference between honey hunting and beekeeping",
+        "What is involved in honey hunting?",
+        "honey hunting"
       ],
       "responses": [
         "Honey hunting involves extracting honey and beeswax from wild honeybee nests, while beekeeping focuses on encouraging bees to nest in hives for easier honey production and overall management."
       ]
     },
     
+    
     {
       "tag": "intro-2",
       "patterns": [
-        "Can you describe the social structure of a honeybee colony?"
+        "Can you describe the social structure of a honeybee colony?",
+        "Tell me about the social structure of honeybee colonies",
+        "What is the composition of a honeybee colony?",
+        "Explain the hierarchy in a honeybee colony",
+        "Social structure honeybee colony",
+        "Honeybee colony composition",
+        "Honeybee hierarchy"
       ],
       "responses": [
         "A honeybee colony consists of a queen, numerous worker bees, and a few hundred drones. The colony exhibits a division of labor and specialization among its members."
       ]
     },
     
+    
     {
       "tag": "intro-3",
       "patterns": [
-        "How do honeybees construct their nests, and what materials do they use?"
+        "How do honeybees construct their nests, and what materials do they use?",
+        "Explain honeybee nest construction",
+        "What materials are used in honeybee nest building?",
+        "Describe the process of honeybee nest formation",
+        "Honeybee nest construction materials"
       ],
       "responses": [
         "Honeybees construct nests, or combs, using wax secreted from the wax glands of worker bees. These combs serve the dual purpose of rearing brood and storing honey and pollen."
       ]
     },
     
+    
     {
       "tag": "intro-4",
       "patterns": [
-        "What is the typical arrangement of cells in a honeybee comb?"
+        "What is the typical arrangement of cells in a honeybee comb?",
+        "Describe honeybee comb cell arrangement",
+        "Explain the structure of cells in a honeybee comb",
+        "Cell arrangement in a honeybee comb",
+        "Honeybee comb cell order"
       ],
       "responses": [
         "In a honeybee comb, honey is stored in the upper part, followed by rows of pollen storage cells, worker brood cells, and drone brood cells, in that order."
       ]
     },
     
+    
     {
       "tag": "intro-5",
       "patterns": [
-        "How do different Apis species vary in their comb-building habits?"
+        "How do different Apis species vary in their comb-building habits?",
+        "Describe Apis species comb construction variations",
+        "Explain the differences in comb building among Apis species",
+        "Variations in Apis species comb habits",
+        "Apis species comb-building diversity"
       ],
       "responses": [
         "Apis species exhibit variation in comb construction, with some building single combs in open spaces, while others create multiple combs in dark cavities."
@@ -60,7 +86,11 @@
     {
       "tag": "intro-6",
       "patterns": [
-        "Besides honey production, what other services do honeybees provide to humans?"
+        "Besides honey production, what other services do honeybees provide to humans?",
+        "List other services provided by honeybees",
+        "Explain additional benefits of honeybees to humans",
+        "Apart from honey, what else do honeybees offer?",
+        "Honeybee contributions to humans"
       ],
       "responses": [
         "Honeybees are valuable for their pollination services, contributing to the fertilization of various crops and plants."
@@ -70,7 +100,11 @@
     {
       "tag": "intro-7",
       "patterns": [
-        "What factors influence the methods used by beekeepers in managing honeybee colonies?"
+        "What factors influence the methods used by beekeepers in managing honeybee colonies?",
+        "Explain factors influencing beekeeping methods",
+        "List considerations affecting honeybee colony management",
+        "Factors influencing beekeeper strategies",
+        "Beekeeping methods and influencing factors"
       ],
       "responses": [
         "The methods employed by beekeepers depend on the types of bees available, as well as the skills and resources at the disposal of the beekeeper."
@@ -80,7 +114,11 @@
     {
       "tag": "intro-8",
       "patterns": [
-        "How do honeybees exhibit specialization in their colony tasks?"
+        "How do honeybees exhibit specialization in their colony tasks?",
+        "Describe honeybee colony task specialization",
+        "Explain the roles of honeybees in a colony",
+        "Honeybee tasks and specialization",
+        "Colony task distribution in honeybees"
       ],
       "responses": [
         "Honeybees showcase specialization in tasks within the colony, with different individuals taking on roles such as foraging, nursing, and guarding."
@@ -89,7 +127,11 @@
     {
       "tag": "intro-9",
       "patterns": [
-        "Why do some honeybees build their combs in open spaces, while others prefer dark cavities?"
+        "Why do some honeybees build their combs in open spaces, while others prefer dark cavities?",
+        "Explain honeybee comb location preferences",
+        "What influences honeybees in choosing comb locations?",
+        "Factors affecting honeybee comb placement",
+        "Honeybee comb location choices"
       ],
       "responses": [
         "The choice of comb location varies among Apis species, with some building single combs in open spaces for accessibility, while others prefer dark cavities for protection."
@@ -99,7 +141,11 @@
     {
       "tag": "intro-10",
       "patterns": [
-        "How do honeybees contribute to the biodiversity of ecosystems through their pollination services?"
+        "How do honeybees contribute to the biodiversity of ecosystems through their pollination services?",
+        "Explain honeybees' role in ecosystem biodiversity",
+        "Describe the impact of honeybee pollination on biodiversity",
+        "Honeybees and ecosystem diversity",
+        "Contribution of honeybees to biodiversity"
       ],
       "responses": [
         "Honeybees play a crucial role in pollination, enhancing the biodiversity of ecosystems by facilitating the reproduction of various plant species."
@@ -108,7 +154,11 @@
     {
       "tag": "beekeeping-1",
       "patterns": [
-        "What is 'Bee Space' or 'Bee Passage' in beekeeping?"
+        "What is 'Bee Space' or 'Bee Passage' in beekeeping?",
+        "Explain the concept of 'Bee Space' in beekeeping",
+        "Define 'Bee Passage' and its role in beekeeping",
+        "Why is 'Bee Space' important for beekeeping?",
+        "'Bee Space' in hive management"
       ],
       "responses": [
         "'Bee Space' is the optimal distance between two comb surfaces in a hive, essential for normal bee movement. It is too small for comb construction and too large for propolis deposition."
@@ -117,7 +167,11 @@
     {
       "tag": "beekeeping-2",
       "patterns": [
-        "Why is movable frame beekeeping considered advantageous?"
+        "Why is movable frame beekeeping considered advantageous?",
+        "Advantages of movable frame beekeeping",
+        "Explain the benefits of using movable frames in beekeeping",
+        "Movable frame beekeeping advantages",
+        "What makes movable frames beneficial in beekeeping?"
       ],
       "responses": [
         "Movable frames allow hive volume adjustment, easy assessment of food stores, artificial feeding, effective monitoring of brood development, and various hive management tasks without disturbing bees."
@@ -126,7 +180,11 @@
     {
       "tag": "beekeeping-3",
       "patterns": [
-        "Why is white paint often preferred for hive construction?"
+        "Why is white paint often preferred for hive construction?",
+        "Advantages of using white paint in hive construction",
+        "Explain the preference for white paint in beekeeping",
+        "White paint in hive construction",
+        "Benefits of choosing white paint for beehive"
       ],
       "responses": [
         "White paint offers durability, flexibility, and easy handling. It also helps regulate hive interior temperature and humidity, contributing to colony efficiency."
@@ -135,7 +193,11 @@
     {
       "tag": "beekeeping-4",
       "patterns": [
-        "What are common materials used for constructing bee hives?"
+        "What are common materials used for constructing bee hives?",
+        "List materials for building bee hives",
+        "Explain the commonly used materials in bee hive construction",
+        "Bee hive construction materials",
+        "Recommended materials for building bee hives"
       ],
       "responses": [
         "Bee hives are commonly constructed with seasonal timber such as teak, kail, or toon. The recommended thickness for wooden walls is 20 mm."
@@ -144,7 +206,11 @@
     {
       "tag": "beekeeping-5",
       "patterns": [
-        "Name some popular types of bee hives."
+        "Name some popular types of bee hives.",
+        "List different types of bee hives",
+        "What are the well-known bee hive types?",
+        "Popular bee hive varieties",
+        "Types of bee hives in beekeeping"
       ],
       "responses": [
         "Popular types include pot hive, book hive, Madhusagar hive, house hive, nucleus hive, single-walled and double-walled Dadant hives, British standard hive, Langstroth hive, Jeolikote hive, and Newton hive."
@@ -153,7 +219,11 @@
     {
       "tag": "beekeeping-6",
       "patterns": [
-        "Which hive types are suited for rearing Indian bees?"
+        "Which hive types are suited for rearing Indian bees?",
+        "Recommendations for Indian bee rearing hives",
+        "What hives are suitable for Indian beekeeping?",
+        "Hive types for Indian bee rearing",
+        "Indian bee-friendly hive options"
       ],
       "responses": [
         "Newton's hives, BIS hives, and Marthandam hives are specifically suited for rearing Indian bees."
@@ -162,7 +232,11 @@
     {
       "tag": "beekeeping-7",
       "patterns": [
-        "What hive type is recommended for rearing Italian bees?"
+        "What hive type is recommended for rearing Italian bees?",
+        "Best hive for Italian beekeeping",
+        "Which hive is suitable for Italian bee rearing?",
+        "Italian bee-friendly hive recommendation",
+        "Recommended hive for Italian bees"
       ],
       "responses": [
         "Langstroth hives are recommended for rearing Italian bees."
@@ -171,7 +245,11 @@
     {
       "tag": "beekeeping-8",
       "patterns": [
-        "Besides hives, what equipment do beekeepers need?"
+        "Besides hives, what equipment do beekeepers need?",
+        "Essential beekeeping equipment",
+        "List necessary tools for beekeepers",
+        "Equipment required for beekeeping",
+        "Beekeeper tools and equipment"
       ],
       "responses": [
         "Beekeepers need equipment such as hive stands, nucleus boxes, and smokers."
@@ -180,7 +258,11 @@
     {
       "tag": "beekeeping-9",
       "patterns": [
-        "What are the recommended colors for painting hive bodies externally?"
+        "What are the recommended colors for painting hive bodies externally?",
+        "Best colors for external hive body painting",
+        "Recommended hive body paint colors",
+        "External hive body color suggestions",
+        "Painting recommendations for hive bodies"
       ],
       "responses": [
         "Recommended colors are white, blue, yellow, or green, with white being generally preferred for hive construction."
@@ -189,7 +271,11 @@
     {
       "tag": "beekeeping-10",
       "patterns": [
-        "What is the significance of 'Bee Space' in beekeeping, and how does it vary among honeybee species?"
+        "What is the significance of 'Bee Space' in beekeeping, and how does it vary among honeybee species?",
+        "Explain the importance of 'Bee Space' in beekeeping",
+        "Bee Space significance and variations among honeybees",
+        "Why is 'Bee Space' important, and how does it differ in honeybee species?",
+        "'Bee Space' in beekeeping and honeybee species variations"
       ],
       "responses": [
         "'Bee Space' is the optimal distance between two adjacent comb surfaces in a beehive, vital for normal bee movement. It varies among honeybee species, with Indian bees requiring 7-9 mm and Italian bees needing 10 mm."
@@ -198,7 +284,11 @@
     {
       "tag": "beekeeping-11",
       "patterns": [
-        "What advantages does beekeeping in movable frames offer, and how does it contribute to effective hive management?"
+        "What advantages does beekeeping in movable frames offer, and how does it contribute to effective hive management?",
+        "Explain the benefits of beekeeping in movable frames",
+        "Advantages of movable frame beekeeping for effective hive management",
+        "How does beekeeping in movable frames contribute to hive management?",
+        "Benefits of movable frames in beekeeping"
       ],
       "responses": [
         "Beekeeping in movable frames allows for adjustable hive volume, easy assessment of food stores, artificial feeding, effective brood development monitoring, artificial queen rearing, removal of old combs, and minimal disturbance during bee observation."
@@ -207,7 +297,11 @@
     {
       "tag": "beekeeping-12",
       "patterns": [
-        "What are the recommended colors for painting hive bodies externally, and why is white generally preferred for hive construction?"
+        "What are the recommended colors for painting hive bodies externally, and why is white generally preferred for hive construction?",
+        "Explain the preference for white paint in beekeeping",
+        "Recommended external hive body paint colors and their significance",
+        "Why is white generally preferred for hive construction?",
+        "Hive body painting recommendations and color significance"
       ],
       "responses": [
         "Recommended colors include white, blue, yellow, or green. White is preferred for hive construction due to its durability, flexibility, and positive impact on hive temperature and humidity regulation."
@@ -216,7 +310,11 @@
     {
       "tag": "beekeeping-13",
       "patterns": [
-        "What materials are commonly used in constructing bee hives, and what criteria should timber meet for hive construction?"
+        "What materials are commonly used in constructing bee hives, and what criteria should timber meet for hive construction?",
+        "List common materials for bee hive construction",
+        "Criteria for selecting timber for hive construction",
+        "Bee hive construction materials and timber criteria",
+        "Commonly used materials in bee hive construction"
       ],
       "responses": [
         "Bee hives are mainly constructed with seasonal timber like teak, kail, or toon. Suitable timber should be free from insect holes, dead knots, shakes, splits, and cracks, with a recommended thickness of 20 mm."
@@ -225,7 +323,11 @@
     {
       "tag": "beekeeping-14",
       "patterns": [
-        "Can you name some popular types of bee hives and specify which one is most popular in South India for rearing Indian bees?"
+        "Can you name some popular types of bee hives and specify which one is most popular in South India for rearing Indian bees?",
+        "List popular bee hive types and their popularity in South India",
+        "Specify the most popular bee hive type in South India for Indian bees",
+        "Name well-known bee hive types and their regional popularity",
+        "Popularity of bee hive types in South India"
       ],
       "responses": [
         "Popular types include Newton's hives, BIS hives, Marthandam hives, and Langstroth hives. The one designed by Rev.Fr.Newton is the most popular in South India for rearing Indian bees."
@@ -234,7 +336,11 @@
     {
       "tag": "beekeeping-15",
       "patterns": [
-        "Describe the parts of a BIS hive and their functions."
+        "Describe the parts of a BIS hive and their functions.",
+        "Explain the functions of different parts in a BIS hive",
+        "BIS hive parts and their roles",
+        "Functions of each part in a BIS hive",
+        "BIS hive components and their functions"
       ],
       "responses": [
         "A BIS hive consists of a floor board, brood chamber, wooden frames, super chamber, super chamber with wooden frames, and a top cover. Each part serves a specific function in the hive structure and management."
@@ -243,7 +349,11 @@
     {
       "tag": "beekeeping-16",
       "patterns": [
-        "What are the specifications for BIS hives according to the latest standards, and how do they differ for different types (A, B, C)?"
+        "What are the specifications for BIS hives according to the latest standards, and how do they differ for different types (A, B, C)?",
+        "Explain the latest standards for BIS hives and their specifications",
+        "BIS hive specifications for different types (A, B, C)",
+        "Differences in BIS hive specifications among types (A, B, C)",
+        "Latest standards for BIS hives and type-specific specifications"
       ],
       "responses": [
         "BIS hives have specifications such as bee space in mm, the number of frames, and bee species. For example, Type A has a bee space of 7 or 8 mm, 10 or 8 or 4 frames, and suits A. cerana."
@@ -252,7 +362,11 @@
     {
       "tag": "beekeeping-17",
       "patterns": [
-        "Can you describe the parts of Newton's bee hive made of wood and their dimensions?"
+        "Can you describe the parts of Newton's bee hive made of wood and their dimensions?",
+        "Explain the wooden parts of Newton's bee hive and their sizes",
+        "Wooden components of Newton's bee hive and their dimensions",
+        "Describe the dimensions of wood parts in Newton's bee hive",
+        "Wooden parts of Newton's bee hive and their specifications"
       ],
       "responses": [
         "Newton's bee hive includes a floor board, brood chamber, wooden frames, super chamber, and top cover. For example, the brood chamber is 93/4 x 81/4 x 63/4 in size, with an entrance slit, and the wooden frames are 81/4 x 53/4 x 6."
@@ -261,7 +375,11 @@
     {
       "tag": "beekeeping-18",
       "patterns": [
-        "What is the purpose of a pollen trap in beekeeping?"
+        "What is the purpose of a pollen trap in beekeeping?",
+        "Explain the role of a pollen trap in beekeeping",
+        "Purpose and function of a pollen trap in beekeeping",
+        "How does a pollen trap benefit beekeepers?",
+        "Beekeeping and the significance of a pollen trap"
       ],
       "responses": [
         "A pollen trap is placed at the hive entrance to scrape pollen pellets from returning foragers. The collected pellets fall into a tray, providing beekeepers with access to high-quality pollen."
@@ -270,7 +388,11 @@
     {
       "tag": "beekeeping-19",
       "patterns": [
-        "How does a honey extractor work, and what precautions should be taken during honey extraction?"
+        "How does a honey extractor work, and what precautions should be taken during honey extraction?",
+        "Explain the functioning of a honey extractor in beekeeping",
+        "Honey extractor operation and precautions during extraction",
+        "What precautions are necessary for honey extraction in beekeeping?",
+        "Beekeeping and the working mechanism of a honey extractor"
       ],
       "responses": [
         "A honey extractor works by using centrifugal force to force honey out of frames. Precautions during honey extraction include handling combs carefully, ensuring proper rotation speed, and conducting extraction away from the hive to avoid attracting bees."
@@ -279,7 +401,11 @@
     {
       "tag": "bee-pollination-1",
       "patterns": [
-        "Why do bees visit plants, and what is their preference in terms of nectar and pollen?"
+        "Why do bees visit plants, and what is their preference in terms of nectar and pollen?",
+        "Explain why bees visit plants and their preference for nectar and pollen",
+        "Reasons for bees visiting plants and their preference in nectar and pollen",
+        "What attracts bees to plants, and what do they prefer in terms of nectar and pollen?",
+        "Bee behavior in visiting plants and their preferences for nectar and pollen"
       ],
       "responses": [
         "Bees visit plants for their food, which includes nectar and pollen. The floral fidelity of bees is due to their preference for nectars with higher sugar content and pollens with higher nutritive values."
@@ -288,7 +414,11 @@
     {
       "tag": "bee-pollination-2",
       "patterns": [
-        "What are the qualities of honeybees that make them good pollinators?"
+        "What are the qualities of honeybees that make them good pollinators?",
+        "List the qualities that make honeybees good pollinators",
+        "Qualities of honeybees contributing to their effectiveness as pollinators",
+        "Why are honeybees considered good pollinators? List their qualities",
+        "Attributes of honeybees that make them effective pollinators"
       ],
       "responses": [
         "Honeybees are good pollinators due to their body being covered with hairs, structural adaptations for carrying nectar and pollen, non-injurious behavior toward plants, feeding habits of both adults and larvae on nectar and pollen, storing pollen and nectar for future use, continuous pollen needs throughout the year, and suitable body size and proboscis length for various crops."
@@ -297,7 +427,11 @@
     {
       "tag": "bee-pollination-3",
       "patterns": [
-        "How does bee pollination affect crop yield and quality?"
+        "How does bee pollination affect crop yield and quality?",
+        "Explain the impact of bee pollination on crop yield and quality",
+        "In what ways does bee pollination influence crop yield and quality?",
+        "Effects of bee pollination on the yield and quality of crops",
+        "Contribution of bee pollination to crop yield and quality"
       ],
       "responses": [
         "Bee pollination increases seed and fruit yield in many crops, improves the quality of fruits and seeds, enhances the oil content of seeds in crops like sunflower, and is essential for seed set in some self-incompatible crops."
@@ -306,7 +440,11 @@
     {
       "tag": "bee-pollination-4",
       "patterns": [
-        "Name some crops benefited by bee pollination."
+        "Name some crops benefited by bee pollination.",
+        "List crops that benefit from bee pollination",
+        "Which crops rely on bee pollination?",
+        "Crops positively impacted by bee pollination",
+        "Bee-pollinated crops and their names"
       ],
       "responses": [
         "Fruits and nuts such as almond, apple, apricot, peach, strawberry, citrus, and litchi; vegetable and vegetable seed crops like cabbage, cauliflower, carrot, cucumber, and melon; oilseed crops including sunflower, niger, rape seed, mustard, and safflower; and forage seed crops like lucerne and clover."
@@ -315,7 +453,11 @@
     {
       "tag": "bee-pollination-5",
       "patterns": [
-        "What is the scope of beekeeping for pollination in India?"
+        "What is the scope of beekeeping for pollination in India?",
+        "Explain the potential of beekeeping for pollination in India",
+        "Scope and opportunities for beekeeping in pollination in India",
+        "How can beekeeping contribute to pollination in India?",
+        "Beekeeping's role in pollination and its scope in India"
       ],
       "responses": [
         "The total area of bee-dependent crops in India is around 50 million hectares, requiring approximately 150 million colonies for optimal pollination. Currently, there are only 1.2 million colonies in India, indicating a significant scope for the expansion of beekeeping for pollination."
@@ -324,7 +466,11 @@
     {
       "tag": "bee-pollination-6",
       "patterns": [
-        "Provide some management practices for beekeeping for pollination."
+        "Provide some management practices for beekeeping for pollination.",
+        "List management practices for beekeeping in pollination",
+        "Best practices for beekeeping to enhance pollination",
+        "How to manage beekeeping for optimal pollination?",
+        "Guidelines for effective beekeeping in pollination"
       ],
       "responses": [
         "Place hives near the field source, migrate colonies near the field at 10% flowering, adjust the number of colonies per hectare based on bee species, maintain colonies with 5-6 frame strength, sealed brood, and a young mated queen, and provide sufficient space for pollen and honey storage."
@@ -333,7 +479,11 @@
     {
       "tag": "bee-pollination-7",
       "patterns": [
-        "Can you share examples of crops benefiting from bee pollination and the percentage increase in yield?"
+        "Can you share examples of crops benefiting from bee pollination and the percentage increase in yield?",
+        "Provide examples of crops with increased yield due to bee pollination",
+        "Crop yield increases with bee pollination: examples and percentages",
+        "Percentage improvement in crop yield due to bee pollination: examples",
+        "Examples of crops and the percentage boost in yield attributed to bee pollination"
       ],
       "responses": [
         "Mustard: 43%\nSunflower: 32-48%\nCotton: 17-19%\nLucerne: 112%\nOnion: 93%\nApple: 44%"
@@ -342,7 +492,11 @@
     {
       "tag": "bee-pollination-8",
       "patterns": [
-        "Describe the pollination process in crops like sunflower and cucurbitaceous vegetables."
+        "Describe the pollination process in crops like sunflower and cucurbitaceous vegetables.",
+        "Explain the pollination process in sunflower and cucurbitaceous vegetables",
+        "Sunflower and cucurbitaceous vegetables: details of their pollination process",
+        "How are sunflower and cucurbitaceous vegetables pollinated?",
+        "Insights into the pollination mechanism of crops like sunflower and cucurbitaceous vegetables"
       ],
       "responses": [
         "Sunflower is cross-pollinated, requiring pollen from different plants, making honeybees crucial for up to a 600% yield increase. Cucurbitaceous vegetables, being monoecious, experience a 30 to 100% increase in fruit set due to bee pollination."
@@ -351,7 +505,11 @@
     {
       "tag": "bee-pollination-9",
       "patterns": [
-        "Name some plants visited by bees for nectar or pollen."
+        "Name some plants visited by bees for nectar or pollen.",
+        "List plants visited by bees for nectar or pollen",
+        "Plants attractive to bees for nectar and pollen",
+        "Which plants do bees visit for nectar or pollen?",
+        "Bee-frequented plants for nectar and pollen"
       ],
       "responses": [
         "Plants visited by bees include all kinds of citrus, litchi, peach, apple, guava, jamun, date palm, apricot, quince, pear, almond, plum, loquat, phalsa, cashew, and many others listed in the provided information."
@@ -360,7 +518,11 @@
     {
       "tag": "bee-pollination-10",
       "patterns": [
-        "Why is proper seed set important in crops like apple?"
+        "Why is proper seed set important in crops like apple?",
+        "Explain the significance of proper seed set in crops like apple",
+        "Importance of adequate seed set in apple crops",
+        "Why do apple crops require proper seed set?",
+        "Role of seed set in maintaining quality in crops like apple"
       ],
       "responses": [
         "In apple, seed set is essential for fruit formation, and improper seed set can result in lopsided fruit shape, leading to decreased market value."
@@ -369,7 +531,11 @@
     {
       "tag": "beekeeping-prerequisites",
       "patterns": [
-        "What are the pre-requisites considered essential to start beekeeping?"
+        "What are the pre-requisites considered essential to start beekeeping?",
+        "List the essential pre-requisites for starting beekeeping",
+        "What do I need to start beekeeping? Provide essential pre-requisites",
+        "Pre-requisites for beekeeping: What is essential to start?",
+        "Key requirements to start beekeeping"
       ],
       "responses": [
         "The pre-requisites for starting beekeeping include:\n\n- Knowledge and training in beekeeping.\n- Familiarity with local bee flora.\n- Availability of sufficient local bee flora.\n- Understanding of migratory beekeeping.\n- Proper selection of an apiary site, considering factors like dryness, water source, windbreaks, shade, and the presence of bee pasturage and florage."
@@ -378,7 +544,11 @@
     {
       "tag": "apiary-management",
       "patterns": [
-        "What are the key aspects of general apiary management practices?"
+        "What are the key aspects of general apiary management practices?",
+        "List the key aspects of managing an apiary",
+        "How to manage an apiary effectively? Outline key practices",
+        "General practices for managing an apiary: What are the key aspects?",
+        "Apiary management: What are the crucial aspects to consider?"
       ],
       "responses": [
         "Key aspects of general apiary management practices include:\n\n- Regular hive inspection to check for the presence of the queen, eggs, brood, honey and pollen storage, and the existence of bee enemies like wax moth and mites.\n- Expanding the brood net by providing comb foundation sheets during honey flow.\n- Supering, which involves adding frames in the super chamber when the brood chamber is full.\n- Providing additional space for foraging activity and egg-laying during the breeding season.\n- Swarm control methods to prevent colonies from swarming."
@@ -387,7 +557,11 @@
     {
       "tag": "swarm-control",
       "patterns": [
-        "Explain the process of swarm control in beekeeping."
+        "Explain the process of swarm control in beekeeping.",
+        "How does swarm control work in beekeeping?",
+        "Describe the swarm control process in beekeeping",
+        "Methods and procedures for swarm control in beekeeping",
+        "Preventing swarming: Explain the process of swarm control"
       ],
       "responses": [
         "Swarm control involves preventing colonies from swarming. Methods include clipping special queen brood cells, trapping and hiving primary swarms separately, removing brood combs from strong colonies, and interchanging positions between strong and weak colonies."
@@ -396,7 +570,11 @@
     {
       "tag": "artificial-feeding",
       "patterns": [
-        "Why is artificial feeding necessary in beekeeping?"
+        "Why is artificial feeding necessary in beekeeping?",
+        "Explain the necessity of artificial feeding in beekeeping",
+        "When and why is artificial feeding used in beekeeping?",
+        "Role of artificial feeding in beekeeping: Why is it necessary?",
+        "Reasons for resorting to artificial feeding in beekeeping"
       ],
       "responses": [
         "Artificial feeding becomes necessary during dearth periods when there is a shortage of nectar and pollen in nature. Bees are fed with sugar syrup to prevent starvation and maintain colony strength. Proper feeding during dearth periods can induce earlier swarming, making colonies stronger before the honey-flow season."
@@ -405,7 +583,11 @@
     {
       "tag": "water-in-beekeeping",
       "patterns": [
-        "What is the role of water in beekeeping, and how is it provided?"
+        "What is the role of water in beekeeping, and how is it provided?",
+        "Explain the significance of water in beekeeping and its provision",
+        "How is water essential in beekeeping, and how can it be supplied?",
+        "Water's role in beekeeping and methods of providing it",
+        "Importance of water in beekeeping and ways to provide it"
       ],
       "responses": [
         "Water is essential for blending with food and regulating hive temperature during hot weather. It can be supplied through a natural or artificial source. Water can be given in a tank, an earthen pot with dripping water, or even inside the hive in a glass bottle."
@@ -414,7 +596,11 @@
     {
       "tag": "uniting-bee-colonies",
       "patterns": [
-        "Explain the process of uniting bee colonies and mention two methods."
+        "Explain the process of uniting bee colonies and mention two methods.",
+        "Describe the process of uniting bee colonies and list two methods",
+        "How is uniting bee colonies done, and what are two methods?",
+        "Uniting bee colonies: Process and two methods explained",
+        "Methods of uniting bee colonies and the process involved"
       ],
       "responses": [
         "Uniting bee colonies becomes necessary when a colony becomes weak or queenless. Two methods are:\n\n- Newspaper method: Place colonies side by side with a newspaper on top of the brood chamber of one colony. Make holes in the paper, place the queenless colony on top, and unite the colonies as the smells mix through the paper.\n- Smoke method: Smoke both colonies heavily and then dump them into one hive, ensuring more smoke is blown into the common hive."
@@ -423,7 +609,11 @@
     {
       "tag": "handling-queen-bee",
       "patterns": [
-        "Why is proper handling of the queen important in beekeeping?"
+        "Why is proper handling of the queen important in beekeeping?",
+        "Importance of proper handling of the queen in beekeeping",
+        "What makes proper queen handling crucial in beekeeping?",
+        "Significance of handling the queen correctly in beekeeping",
+        "Role of queen handling in maintaining a healthy bee colony"
       ],
       "responses": [
         "The queen is the most important individual in a bee colony. Proper and careful handling is crucial because the queen is indispensable for the colony's functioning, including egg-laying and maintaining colony harmony."
@@ -432,7 +622,11 @@
     {
       "tag": "absence-of-queen",
       "patterns": [
-        "How can the absence of a queen be determined in a colony?"
+        "How can the absence of a queen be determined in a colony?",
+        "Determining the absence of a queen in a colony",
+        "Signs indicating the absence of a queen in a colony",
+        "Methods to identify the absence of a queen in a bee colony",
+        "Why is it important to recognize the absence of a queen in a colony?"
       ],
       "responses": [
         "The absence of a queen can be determined by observing the behavior of bees in a queenless colony. Queenless colonies exhibit nervousness, improper sitting on combs, and the absence of egg-laying or worker egg-laying without uniformity in combs."
@@ -441,7 +635,11 @@
     {
       "tag": "queen-handling",
       "patterns": [
-        "Why is proper handling of the queen emphasized in beekeeping?"
+        "Why is proper handling of the queen emphasized in beekeeping?",
+        "Importance of emphasizing proper queen handling in beekeeping",
+        "What makes queen handling a crucial aspect of beekeeping?",
+        "Significance of handling the queen correctly in maintaining colony health",
+        "Role of queen handling in ensuring a thriving bee colony"
       ],
       "responses": [
         "The queen is considered the most important and indispensable individual in a bee colony. Proper handling is crucial to ensure the well-being and functionality of the colony."
@@ -450,7 +648,11 @@
     {
       "tag": "active-queen-determination",
       "patterns": [
-        "How can the presence of an active queen in a colony be determined?"
+        "How can the presence of an active queen in a colony be determined?",
+        "Determining the presence of an active queen in a colony",
+        "Methods to identify an active queen in a bee colony",
+        "Spotting an active queen in a bee colony: What to look for",
+        "Why is it important to determine the presence of an active queen in a colony?"
       ],
       "responses": [
         "The presence of an active queen can be inferred by the presence of worker eggs. However, if it is necessary to spot or catch the queen, a thorough search may be required, especially in strong colonies where spotting the queen at first glance might be challenging."
@@ -459,7 +661,11 @@
     {
       "tag": "queenless-colony-signs",
       "patterns": [
-        "What are the signs of a queenless colony, and why is it important to test for the absence of a queen?"
+        "What are the signs of a queenless colony, and why is it important to test for the absence of a queen?",
+        "Identifying signs of a queenless colony and the importance of testing for queen absence",
+        "Signs indicating a queenless colony and the necessity of testing for queen absence",
+        "Why should beekeepers be aware of the signs of a queenless colony?",
+        "Importance of testing for the absence of a queen in beekeeping"
       ],
       "responses": [
         "Signs of a queenless colony include nervous behavior, improper sitting on combs, and a lack of uniformity in combs. Testing for the absence of a queen is essential before introducing a new queen to avoid conflicts and ensure the success of the introduction."
@@ -468,7 +674,11 @@
     {
       "tag": "introducing-queen-process",
       "patterns": [
-        "Describe the process of introducing a queen into a colony."
+        "Describe the process of introducing a queen into a colony.",
+        "Explaining the process of introducing a queen into a bee colony",
+        "Step-by-step guide to introducing a queen to a bee colony",
+        "How to safely introduce a queen into a colony: A detailed process",
+        "Introduction of a new queen to a colony: What is the process?"
       ],
       "responses": [
         "To safely introduce a queen, it must be ensured that the colony is genuinely queenless, and no queen cell is present in the brood combs. The queen should be placed in a queen-introducing cage with the exit plugged with queen candy. This cage is then positioned in the center of the brood nest."
@@ -477,7 +687,11 @@
     {
       "tag": "increasing-colonies-importance",
       "patterns": [
-        "Why is increasing the number of colonies important for a beekeeper?"
+        "Why is increasing the number of colonies important for a beekeeper?",
+        "Importance of expanding the number of colonies for beekeepers",
+        "Advantages of increasing the number of bee colonies",
+        "How does increasing the number of colonies benefit a beekeeper?",
+        "Role of colony expansion in the success of a beekeeping venture"
       ],
       "responses": [
         "Increasing the number of colonies is crucial for the expansion and success of a beekeeping venture. This can be achieved by dividing existing colonies into sub-colonies with fresh queens or by purchasing established colonies."
@@ -486,7 +700,11 @@
     {
       "tag": "increasing-colonies-methods",
       "patterns": [
-        "What are the methods for increasing the number of colonies during the swarming season?"
+        "What are the methods for increasing the number of colonies during the swarming season?",
+        "Increasing colony numbers during the swarming season: Methods",
+        "Methods to increase colonies in beekeeping during swarming season",
+        "How can beekeepers increase the number of colonies during swarming?",
+        "Swarming season: Strategies for increasing bee colonies"
       ],
       "responses": [
         "- Dividing colonies by keeping 50% brood combs with the old queen in an empty hive and moving it away from the original site.\n- Allowing colonies to swarm, capturing the swarms, and transferring them to empty hives by providing brood combs from another colony."
@@ -495,7 +713,11 @@
     {
       "tag": "seasonal-management-importance",
       "patterns": [
-        "What is the importance of seasonal management in beekeeping?"
+        "What is the importance of seasonal management in beekeeping?",
+        "Significance of seasonal management in beekeeping",
+        "Why is seasonal management crucial for beekeepers?",
+        "Role of seasonal management practices in successful beekeeping",
+        "How does seasonal management contribute to healthy bee colonies?"
       ],
       "responses": [
         "Seasonal management is essential to address specific challenges and opportunities presented by different seasons. It includes practices like providing space for honey storage, preventing swarming, and managing colonies differently during honey flow, summer, winter, and dearth periods."
@@ -504,7 +726,11 @@
     {
       "tag": "honey-flow-season-management",
       "patterns": [
-        "What are some tactics for managing bee colonies during the honey flow season?"
+        "What are some tactics for managing bee colonies during the honey flow season?",
+        "Strategies for managing bee colonies during the honey flow season",
+        "Managing bee colonies for optimal honey production during honey flow",
+        "Beekeeping practices for maximizing honey production during the honey flow season",
+        "How to ensure successful honey flow season management in beekeeping"
       ],
       "responses": [
         "- Providing more space for honey storage with comb foundation sheets.\n- Confining the queen to the brood chamber using a queen excluder.\n- Preventing swarming as explained in swarm management.\n- Prior to honey flow, providing sugar syrup and building sufficient population."
@@ -513,7 +739,11 @@
     {
       "tag": "foraging-definition",
       "patterns": [
-        "How is foraging defined in the context of beekeeping?"
+        "How is foraging defined in the context of beekeeping?",
+        "Definition of foraging in beekeeping",
+        "What does foraging mean for bees in beekeeping?",
+        "Significance of foraging activities in a bee colony",
+        "Role of foraging in the life of a bee colony"
       ],
       "responses": [
         "Foraging in beekeeping refers to the collection of nectar and pollen by bees. Nectar foragers collect nectar from flowers using their lapping tongue, while pollen foragers collect pollen by passing through different flowers, storing it in corbicula or pollen baskets."
@@ -522,7 +752,11 @@
     {
       "tag": "pollen-nectar-source-plants",
       "patterns": [
-        "Name some plants that are good sources of both pollen and nectar for bees."
+        "Name some plants that are good sources of both pollen and nectar for bees.",
+        "Plants providing both pollen and nectar for bees",
+        "Which plants are dual sources of pollen and nectar for bees?",
+        "Bee-friendly plants offering both pollen and nectar",
+        "Plants suitable for supporting bees with both pollen and nectar"
       ],
       "responses": [
         "Plants that are good sources of both pollen and nectar for bees include banana, peach, citrus, guava, apple, sunflower, berries, safflower, pear, mango, and plum."
@@ -531,7 +765,11 @@
     {
       "tag": "bee-products-harvesting",
       "patterns": [
-        "What are the important bee products, and when is honey typically harvested?"
+        "What are the important bee products, and when is honey typically harvested?",
+        "Important products harvested from bee colonies and honey harvesting time",
+        "Beekeeping products and the timing of honey harvesting",
+        "When is honey usually collected, and what are the significant bee products?",
+        "Harvesting bee products: Focus on honey and its typical harvesting time"
       ],
       "responses": [
         "The important bee products include honey, beeswax, royal jelly, bee venom, propolis, and pollen. Honey is typically harvested at the end of a flowering season."
@@ -540,7 +778,11 @@
     {
       "tag": "honey-extraction-process",
       "patterns": [
-        "How is honey extracted from traditional or top-bar hives, and what equipment is used?"
+        "How is honey extracted from traditional or top-bar hives, and what equipment is used?",
+        "Honey extraction from traditional or top-bar hives: Process and equipment",
+        "Extracting honey from traditional or top-bar hives: Step-by-step",
+        "Equipment used in extracting honey from traditional or top-bar hives",
+        "What is the process of honey extraction from traditional or top-bar hives?"
       ],
       "responses": [
         "In traditional or top-bar hives, the beekeeper selects combs containing ripe honey covered with a layer of white beeswax. Honey is extracted from super combs using a honey extractor. The sealing of cells is removed with a sharp knife before placing them in the extractor. The extractor is worked slowly initially and then at about 150 rpm for 1 to 2 minutes. The sides of the frames are reversed, and the extractor is worked again. Extracted honey is filtered through muslin cloth."
@@ -549,7 +791,11 @@
     {
       "tag": "lean-season-beekeeping",
       "patterns": [
-        "What steps can beekeepers take during the lean season (May-September) to manage bee colonies?"
+        "What steps can beekeepers take during the lean season (May-September) to manage bee colonies?",
+        "Beekeeping practices for managing colonies during the lean season",
+        "Strategies for beekeepers during the lean season to maintain colony health",
+        "Managing bee colonies during May-September: Tips for the lean season",
+        "How to care for bee colonies during the lean season"
       ],
       "responses": [
         "During the lean season, beekeepers should remove super chambers, arrange healthy brood combs in the brood chamber, and use division boards to restrict space. Artificial feeding is provided weekly with 1:1 sugar syrup in water. The amount of syrup depends on the colony's size and stored food availability. Pollen substitutes may also be provided when there is a dearth of natural sources."
@@ -558,7 +804,11 @@
     {
       "tag": "honey-collecting-ripening",
       "patterns": [
-        "Explain the process of collecting and ripening honey by honeybees."
+        "Explain the process of collecting and ripening honey by honeybees.",
+        "Honey collection and ripening process by honeybees: Explanation",
+        "How do honeybees collect and ripen honey? Explain the process",
+        "Insights into the process of collecting and ripening honey by honeybees",
+        "The intricate process of honey collection and ripening by honeybees"
       ],
       "responses": [
         "Field bees draw nectar using their lapping tongue (proboscis). They regurgitate the nectar, which is collected by hive bees and deposited in cells on the comb. Nectar contains 20 to 40 percent sucrose. The enzyme invertase, present in nectar and saliva of honeybees, converts sucrose into dextrose (glucose) and levulose (fructose). Honey ripening occurs through the action of enzymes and water evaporation, facilitated by the bees' wing fanning. When the water content is reduced to about 20 percent, bees seal the cell with a wax capping, indicating the honey is ripe and resistant to fermentation."
@@ -567,7 +817,11 @@
     {
       "tag": "honey-characteristics",
       "patterns": [
-        "What are the characteristics of honey, and why is it considered a concentrated food source for bees?"
+        "What are the characteristics of honey, and why is it considered a concentrated food source for bees?",
+        "Characteristics of honey and its role as a concentrated food source for bees",
+        "Why is honey considered a concentrated food source, and what are its characteristics?",
+        "The concentrated nature of honey and its characteristics beneficial for bees",
+        "Attributes of honey that make it a concentrated and valuable food source for bees"
       ],
       "responses": [
         "Honey contains a variety of sugars, minerals, vitamins, proteins, and amino acids, varying based on the nectar source. Bees consider honey a concentrated food source as they prepare it by reducing water content through evaporation. When the water content is reduced to around 20 percent, the bees seal the cell with wax, preventing fermentation and providing a concentrated and stable food source for periods when flowers are scarce."
@@ -576,7 +830,11 @@
     {
       "tag": "honey-constituents",
       "patterns": [
-        "What are the major constituents of fully ripened honey, and what percentage do they approximately make up?"
+        "What are the major constituents of fully ripened honey, and what percentage do they approximately make up?",
+        "Major constituents of fully ripened honey and their percentages",
+        "Percentage breakdown of major constituents in fully ripened honey",
+        "What makes up the majority of fully ripened honey, and in what proportions?",
+        "Approximate percentages of key constituents in fully ripened honey"
       ],
       "responses": [
         "The major constituents of fully ripened honey and their approximate percentages are as follows:\n\n- Levulose: 41.0%\n- Dextrose: 35.0%\n- Sucrose: 1.9%\n- Dextrins: 1.5%\n- Minerals: 2.0%\n- Water: 17.0%\n- Undetermined (Enzymes, vitamins, pigments, etc.): 16.0%"
