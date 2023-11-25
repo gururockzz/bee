@@ -6,7 +6,8 @@ import torch.nn as nn
 from transformers import BertTokenizer, BertModel
 import nltk
 import os
-
+from googletrans import Translator
+translator = Translator()
 # Set NLTK data path to the directory in your Git repo
 nltk_data_path = os.path.join(os.path.dirname(__file__), 'nltk_data')
 nltk.data.path.append(nltk_data_path)
@@ -65,7 +66,14 @@ class NeuralNet(nn.Module):
         x = torch.relu(self.fc1(x))
         x = self.fc2(x)
         return x
+def get_response_translated(msg, target_language='ta'):
+    # Use the existing get_response function
+    response = get_response(msg)
 
+    # Translate the response to Tamil
+    translated_response = translator.translate(response, dest=target_language).text
+
+    return translated_response
 import numpy as np
 import nltk
 # nltk.download('punkt')
@@ -166,7 +174,9 @@ def chat():
         data = request.json
         user_input = data['user_input']
 
-        response = get_response(user_input)
+        # Get translated response
+        response = get_response_translated(user_input)
+
         return jsonify({'response': response})
 
     except Exception as e:
